@@ -32,7 +32,7 @@
 
 ## 📈 My Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MERN_stack&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hrithik-Mahato&theme=tokyo-night)
 ## 🐍 My Contribution Snake
 
 ![GitHub Snake](https://raw.githubusercontent.com/Hrithik-Mahato/Hrithik-Mahato/output/github-snake.svg)
