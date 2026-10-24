@@ -1,7 +1,7 @@
 ## 👀 Profile Visitors
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hrithik-Mahatot&color=blueviolet&style=for-the-badge)
-![Developer Banner](github-header-banner.png)
+
 
 # Hi, I'm Hrithik Mahato! 👋
 
@@ -24,7 +24,7 @@
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hrithikk-Mahato&show_icons=true&theme=tokyonight)
 
 ## 🔥 Contribution Streak
 
@@ -32,7 +32,7 @@
 
 ## 📈 My Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hrithik-Mahato&theme=tokyo-night)
 ## 🐍 My Contribution Snake
 
 ![GitHub Snake](https://raw.githubusercontent.com/Hrithik-Mahato/Hrithik-Mahato/output/github-snake.svg)
