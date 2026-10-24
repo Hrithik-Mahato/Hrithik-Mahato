@@ -20,6 +20,8 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 🐍 My Contribution Snake
+
+![GitHub Snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg)
 
 ## 📫 Connect With Me
