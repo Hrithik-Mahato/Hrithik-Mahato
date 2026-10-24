@@ -1,6 +1,6 @@
 ## 👀 Profile Visitors
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Hrithik-Mahatot&color=blueviolet&style=for-the-badge)
 
 # Hi, I'm Hrithik Mahato! 👋
 
