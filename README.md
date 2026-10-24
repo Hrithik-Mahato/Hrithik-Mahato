@@ -22,6 +22,6 @@
 
 ## 🐍 My Contribution Snake
 
-![GitHub Snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Hrithik-Mahato/Hrithik-Mahato/output/github-snake.svg)
 
 ## 📫 Connect With Me
