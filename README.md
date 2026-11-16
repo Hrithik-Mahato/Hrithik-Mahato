@@ -9,6 +9,8 @@
 🌱 Currently learning HTML, CSS, and JavaScript.
 🚀 Building projects and documenting my journey.
 
+Aspiring Software Developer with foundational knowledge of programming, data structures and algorithms, database management, and web application development. Currently developing skills in the MERN stack, Python, and machine learning. Interested in building reliable, secure, and maintainable software applications while strengthening understanding of operating systems, networking, backend architecture, and software engineering fundamentals.
+
 ---
 ## 👨‍💻 My Developer Journey
 
